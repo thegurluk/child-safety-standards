@@ -10,7 +10,7 @@ We take child safety seriously and have implemented the following measures:
 
 ## Reporting Issues
 If you encounter any content or behavior that violates these standards, please report it immediately. You can contact us via:
-- **Email:** [safety@example.com](mailto:safety@example.com)
+- **Email:** [wanderjoyinfo@gmail.com](mailto:wanderjoyinfo@gmail.com)
 
 ## Safety Policies
 Our key policies include:
@@ -20,8 +20,7 @@ Our key policies include:
 
 ## Contact Us
 For any inquiries or concerns related to child safety, you can reach us at:
-- **Email:** [support@example.com](mailto:support@example.com)
-- **Website:** [Our App](https://www.example.com)
+- **Email:** [support@example.com](mailto:wanderjoyinfo@gmail.com)
 
 ## External Compliance
 This repository serves as a public commitment to child safety, meeting the requirements of Google Play's CSAE policies.
